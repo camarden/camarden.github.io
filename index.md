@@ -4,6 +4,6 @@ title: ""
 ---
 
 <p float="left">
-<img src="3brothersrockhalfresize.jpg" width="400" height="600" width="49%" /> 
-<img src="Glen Nayook.jpg" width="400" height="600" width="49%" />
+<img src="beausand.jpg" width="400" height="600" width="49%" /> 
+<img src="beardorchid.jpg" width="400" height="600" width="49%" />
 </p>
