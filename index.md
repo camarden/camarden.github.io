@@ -3,5 +3,4 @@ layout: page
 title: ""
 ---
 
-![3brossmall](/3brothersrockhalfresize.jpg)
-![3bros](/3brothersrockresize.jpg)
+<img src="3brothersrockhalfresize.jpg" width="400" height="600" />
