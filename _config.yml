@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Environmental Portraits", file: "enviroport.md"}
   - {title: "UVIVF", file: "uvivf.md"}
   - {file: "README.md"}
-  - {title: "Ortho Maps", file: ""}
+  - {title: "Ortho Maps", url: "https://camarden.github.io/qgis2web_2025_01_04-17_51_26_600223/#19/-38.29134/145.17351"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
    - {title: Contact, icon: envelope, url: "ardencameron@gmail.com", file: "contactme.md", permalink: "/contactme.md"}
